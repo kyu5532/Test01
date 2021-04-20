@@ -3,6 +3,7 @@ First test
 ### 2. API Spec & Example
 
 ----------
+![image](https://user-images.githubusercontent.com/82422557/115353470-7e1eba80-a1f3-11eb-8aac-eed56083f80f.png)
 
 ##### 2.1 계좌 조회 HTTP Request
 
